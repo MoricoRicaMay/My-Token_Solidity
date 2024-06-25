@@ -2,7 +2,6 @@
 
 The MyToken Solidity contract is designed for creating and managing a custom token on Ethereum.
 
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
