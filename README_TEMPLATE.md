@@ -1,8 +1,6 @@
 # Project Title
 
-Simple overview of use/purpose.
-
-## Description
+The MyToken Solidity contract is designed for creating and managing a custom token on Ethereum.
 
 An in-depth paragraph about your project and overview of use.
 
